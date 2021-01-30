@@ -10,7 +10,6 @@ class Welcome extends Component {
         <span className="text-secondary font-weight-bold pl-1">
           Welcome {userName}
         </span>
-        ,
         <Link
           to="/login"
           className="font-weight-bold text-primary pl-1"
